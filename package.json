@@ -1,0 +1,9 @@
+{
+  "name": "preact-repro-app",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "preact": "^10.5.14",
+    "preact-repro-lib": "file:../preact-repro-lib"
+  }
+}
